@@ -10,7 +10,7 @@ const MealItemForm = (props) => {
         event.preventDefault();
         const enteredAmount = amountInputRef.current.value;
         const enteredAmountNumber = +enteredAmount;
-        if(enteredAmountNumber.trim().length === 0 || enteredAmountNumber < 1 || enteredAmountNumber > 5){
+        if(enteredAmount.trim().length === 0 || enteredAmountNumber < 1 || enteredAmountNumber > 5){
             setAmountIsValid(false);
             return;
         }
