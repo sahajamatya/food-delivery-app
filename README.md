@@ -19,5 +19,4 @@ This is a food delivery app I made with React to demonstrate my understanding an
 - Http Requests
 - Form Validation Handling
 
-This app is built in parallel with the Udemy course <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/" target="_blank">React - The Complete Guide (incl Hooks, React Router, Redux)</a>
-facilitated by Maximilian Schwarzmüller ([@maxschwarzmueller](https://github.com/maxschwarzmueller)).
+> This app is built in parallel with the Udemy course <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/" target="_blank">React - The Complete Guide (incl Hooks, React Router, Redux)</a> facilitated by Maximilian Schwarzmüller ([@maxschwarzmueller](https://github.com/maxschwarzmueller)).
