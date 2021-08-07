@@ -1,6 +1,6 @@
 # Food Delivery App
 
-> 🔴  Site hosted live at: <a href="https://food-delivery-app.surge.sh/" target="_blank">food-delivery-app.surge.sh</a>
+> <pre>🔴 Site hosted live at: <a href="https://food-delivery-app.surge.sh/" target="_blank">food-delivery-app.surge.sh</a></pre>
 
 This is a food delivery app I made with React to demonstrate my understanding and use of the following React concepts. The data is fetched from the backend which is plugged into a Firebase Real Time Database. Note, this app serves to showcase programmed functional UI abilities rather than UI design and aesthetic:
 
